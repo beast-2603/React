@@ -3,19 +3,19 @@ export const Work = [
         id:1,
         name:"Portfolio-Template",
         description:"It is made with React.Js and styled components, it includes simple and fun animations",
-        tags:["react","styledComponents"],
+        tags:["react","styledComponents","non-responsive"],
         
         demo:"https://portfolio-4b009.web.app/",
-        github:"https://github.com/beast-2603/React-Apps/Portfolio-orgn"
+        github:"https://github.com/beast-2603/Reacts/tree/main/portfolio-1"
     },
     {
         id:2,
         name:"Tesla-clone",
         description:"A clone of the original Tesla Website and my first ever hosted website",
-        tags:["react","styledComponents","Figma"],
+        tags:["react","styledComponents","Figma","non-responsive"],
         
         demo:"https://clones-e3605.web.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        github:"https://github.com/beast-2603/Reacts/tree/main/tesla-clone"
     }
         
     // ,
