@@ -33,22 +33,21 @@ export const Work = [
     id: 4,
     name: 'Tic-Tac_Toe',
     description:
-      'A cool and interesting dula player game of X and O, come visit if you are bored',
+      'A cool and interesting dual player game of X and O, come visit if you are bored',
     tags: ['react', 'styledComponents', 'react-router'],
 
     demo: 'https://tictactoebeast.surge.sh/',
     github: 'https://github.com/beast-2603/tictactoe'
+  },
+  {
+    id: 5,
+    name: 'Talkito',
+    description: 'An app for socializing and chatting with random people',
+    tags: ['react', 'Context-Api', 'React-Hooks', 'Firebase'],
+
+    demo: 'https://chat-web-app-a8c4f.web.app/',
+    github: 'https://github.com/beast-2603/chat-app'
   }
-  // {
-  //     id:5,
-  //     name:"Todo App(React + Redux)",
-  //     description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-  //     tags:["react","redux","framer-motion"],
-
-  //     demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-  //     github:"https://github.com/codebucks27/React-Redux-Todo-App"
-
-  // },
   // {
   //     id:6,
   //     name:"Responsive Navigation Menu",
